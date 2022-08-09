@@ -1,0 +1,419 @@
+c:\users\студент\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\студент\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\студент\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\студент\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\студент\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\студент\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\студент\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\студент\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\студент\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\PC\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\PC\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\PC\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\PC\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Студент\Documents\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Студент\Documents\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Студент\Documents\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Студент\Documents\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Студент\Documents\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Студент\Documents\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Студент\Documents\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Студент\Documents\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Студент\Documents\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+E:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+E:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+E:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова05-на21-10-2021-СГ\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова05-на21-10-2021-СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова05-на21-10-2021-СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова05-на21-10-2021-СГ\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова05-на21-10-2021-СГ\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова05-на21-10-2021-СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова05-на21-10-2021-СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова05-на21-10-2021-СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова05-на21-10-2021-СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Константинова06-на21-10-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\PC\Desktop\Константинова06-на21-10-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\PC\Desktop\Константинова06-на21-10-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\PC\Desktop\Константинова06-на21-10-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Константинова06-на21-10-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\PC\Desktop\Константинова06-на21-10-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\PC\Desktop\Константинова06-на21-10-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Константинова06-на21-10-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Константинова06-на21-10-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\PC\Desktop\Константинова06-на21-10-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова07-на01-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова07-на01-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова07-на01-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова07-на01-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова07-на01-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова07-на01-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова07-на01-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова07-на01-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова07-на01-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова08-на01-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова08-на01-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова08-на01-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\PC\Desktop\Константинова08-на01-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\PC\Desktop\Константинова08-на01-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\PC\Desktop\Константинова08-на01-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\PC\Desktop\Константинова08-на01-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Константинова08-на01-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\PC\Desktop\Константинова08-на01-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\PC\Desktop\Константинова08-на01-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Константинова08-на01-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Константинова08-на01-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\PC\Desktop\Константинова08-на01-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Студент\Documents\Константинова08-на18-11-2021\Константинова08-на18-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Студент\Documents\Константинова08-на18-11-2021\Константинова08-на18-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Студент\Documents\Константинова08-на18-11-2021\Константинова08-на18-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Студент\Documents\Константинова08-на18-11-2021\Константинова08-на18-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Студент\Documents\Константинова08-на18-11-2021\Константинова08-на18-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Студент\Documents\Константинова08-на18-11-2021\Константинова08-на18-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Студент\Documents\Константинова08-на18-11-2021\Константинова08-на18-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Студент\Documents\Константинова08-на18-11-2021\Константинова08-на18-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Студент\Documents\Константинова08-на18-11-2021\Константинова08-на18-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\Users\Garmashov\_НИРС\2022-Константинова\Константинова08-на18-11-2021\Константинова08-на18-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Users\Garmashov\_НИРС\2022-Константинова\Константинова08-на18-11-2021\Константинова08-на18-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Users\Garmashov\_НИРС\2022-Константинова\Константинова08-на18-11-2021\Константинова08-на18-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Users\Garmashov\_НИРС\2022-Константинова\Константинова08-на18-11-2021\Константинова08-на18-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\Users\Garmashov\_НИРС\2022-Константинова\Константинова08-на18-11-2021\Константинова08-на18-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\Users\Garmashov\_НИРС\2022-Константинова\Константинова08-на18-11-2021\Константинова08-на18-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\Users\Garmashov\_НИРС\2022-Константинова\Константинова08-на18-11-2021\Константинова08-на18-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\Users\Garmashov\_НИРС\2022-Константинова\Константинова08-на18-11-2021\Константинова08-на18-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Users\Garmashov\_НИРС\2022-Константинова\Константинова08-на18-11-2021\Константинова08-на18-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова09-на18-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова09-на18-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова09-на18-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова09-на18-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова09-на18-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова09-на18-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова09-на18-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова09-на18-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова09-на18-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова09-на18-11-2021+СГмин\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова09-на18-11-2021+СГмин\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова09-на18-11-2021+СГмин\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова09-на18-11-2021+СГмин\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова09-на18-11-2021+СГмин\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова09-на18-11-2021+СГмин\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова09-на18-11-2021+СГмин\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова09-на18-11-2021+СГмин\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова09-на18-11-2021+СГмин\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Константинова09-на18-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\PC\Desktop\Константинова09-на18-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\PC\Desktop\Константинова09-на18-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\PC\Desktop\Константинова09-на18-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Константинова09-на18-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\PC\Desktop\Константинова09-на18-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\PC\Desktop\Константинова09-на18-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Константинова09-на18-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Константинова09-на18-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\PC\Desktop\Константинова09-на18-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\garmashov\Documents\Константинова09-на25-11-2021+СГ\Константинова09-на25-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\garmashov\Documents\Константинова09-на25-11-2021+СГ\Константинова09-на25-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\garmashov\Documents\Константинова09-на25-11-2021+СГ\Константинова09-на25-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\garmashov\Documents\Константинова09-на25-11-2021+СГ\Константинова09-на25-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\garmashov\Documents\Константинова09-на25-11-2021+СГ\Константинова09-на25-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\garmashov\Documents\Константинова09-на25-11-2021+СГ\Константинова09-на25-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\garmashov\Documents\Константинова09-на25-11-2021+СГ\Константинова09-на25-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\garmashov\Documents\Константинова09-на25-11-2021+СГ\Константинова09-на25-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\garmashov\Documents\Константинова09-на25-11-2021+СГ\Константинова09-на25-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова09-на25-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова09-на25-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова09-на25-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова09-на25-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова09-на25-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова09-на25-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова09-на25-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова09-на25-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова09-на25-11-2021\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова09-на25-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова09-на25-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова09-на25-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова09-на25-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова09-на25-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова09-на25-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова09-на25-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова09-на25-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова09-на25-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\PC\Downloads\Константинова09-на25-11-2021+СГ\Константинова09-на25-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\PC\Downloads\Константинова09-на25-11-2021+СГ\Константинова09-на25-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\PC\Downloads\Константинова09-на25-11-2021+СГ\Константинова09-на25-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\PC\Downloads\Константинова09-на25-11-2021+СГ\Константинова09-на25-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\PC\Downloads\Константинова09-на25-11-2021+СГ\Константинова09-на25-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\PC\Downloads\Константинова09-на25-11-2021+СГ\Константинова09-на25-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\PC\Downloads\Константинова09-на25-11-2021+СГ\Константинова09-на25-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\Константинова09-на25-11-2021+СГ\Константинова09-на25-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Константинова09-на25-11-2021+СГ\Константинова09-на25-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\PC\Downloads\Константинова09-на25-11-2021+СГ\Константинова09-на25-11-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова10-на02-12-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова10-на02-12-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова10-на02-12-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова10-на02-12-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова10-на02-12-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова10-на02-12-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова10-на02-12-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова10-на02-12-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова10-на02-12-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\PC\Downloads\Константинова10-на02-12-2021+СГ\Константинова10-на02-12-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\PC\Downloads\Константинова10-на02-12-2021+СГ\Константинова10-на02-12-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\PC\Downloads\Константинова10-на02-12-2021+СГ\Константинова10-на02-12-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\PC\Downloads\Константинова10-на02-12-2021+СГ\Константинова10-на02-12-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\Константинова10-на02-12-2021+СГ\Константинова10-на02-12-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Константинова10-на02-12-2021+СГ\Константинова10-на02-12-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\PC\Downloads\Константинова10-на02-12-2021+СГ\Константинова10-на02-12-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\PC\Downloads\Константинова10-на02-12-2021+СГ\Константинова10-на02-12-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\PC\Downloads\Константинова10-на02-12-2021+СГ\Константинова10-на02-12-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\PC\Downloads\Константинова10-на02-12-2021+СГ\Константинова10-на02-12-2021+СГ\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова11-на09-12-2021+ЗаписьБезСшив\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова11-на09-12-2021+ЗаписьБезСшив\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова11-на09-12-2021+ЗаписьБезСшив\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова11-на09-12-2021+ЗаписьБезСшив\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова11-на09-12-2021+ЗаписьБезСшив\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова11-на09-12-2021+ЗаписьБезСшив\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова11-на09-12-2021+ЗаписьБезСшив\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова11-на09-12-2021+ЗаписьБезСшив\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова11-на09-12-2021+ЗаписьБезСшив\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова11-на09-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова11-на09-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова11-на09-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова11-на09-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова11-на09-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова11-на09-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова11-на09-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова11-на09-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова11-на09-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\garmashov\Documents\Константинова12-на12-12-2021_ЗаписьСоСшив\Константинова12-на12-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\garmashov\Documents\Константинова12-на12-12-2021_ЗаписьСоСшив\Константинова12-на12-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\garmashov\Documents\Константинова12-на12-12-2021_ЗаписьСоСшив\Константинова12-на12-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\garmashov\Documents\Константинова12-на12-12-2021_ЗаписьСоСшив\Константинова12-на12-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\garmashov\Documents\Константинова12-на12-12-2021_ЗаписьСоСшив\Константинова12-на12-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\garmashov\Documents\Константинова12-на12-12-2021_ЗаписьСоСшив\Константинова12-на12-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\garmashov\Documents\Константинова12-на12-12-2021_ЗаписьСоСшив\Константинова12-на12-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\garmashov\Documents\Константинова12-на12-12-2021_ЗаписьСоСшив\Константинова12-на12-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\garmashov\Documents\Константинова12-на12-12-2021_ЗаписьСоСшив\Константинова12-на12-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Константинова12-на16-12-2021_ЗаписьСоСшив\Константинова12-на16-12-2021_ЗаписьСоСшив\Константинова12-на12-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Константинова12-на16-12-2021_ЗаписьСоСшив\Константинова12-на16-12-2021_ЗаписьСоСшив\Константинова12-на12-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Константинова12-на16-12-2021_ЗаписьСоСшив\Константинова12-на16-12-2021_ЗаписьСоСшив\Константинова12-на12-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Константинова12-на16-12-2021_ЗаписьСоСшив\Константинова12-на16-12-2021_ЗаписьСоСшив\Константинова12-на12-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Константинова12-на16-12-2021_ЗаписьСоСшив\Константинова12-на16-12-2021_ЗаписьСоСшив\Константинова12-на12-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Константинова12-на16-12-2021_ЗаписьСоСшив\Константинова12-на16-12-2021_ЗаписьСоСшив\Константинова12-на12-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+E:\Константинова12-на16-12-2021_ЗаписьСоСшив\Константинова12-на16-12-2021_ЗаписьСоСшив\Константинова12-на12-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Константинова12-на16-12-2021_ЗаписьСоСшив\Константинова12-на16-12-2021_ЗаписьСоСшив\Константинова12-на12-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Константинова12-на16-12-2021_ЗаписьСоСшив\Константинова12-на16-12-2021_ЗаписьСоСшив\Константинова12-на12-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Студент\Documents\Константинова12-на16-12-2021_ЗаписьСоСшив\Константинова12-на12-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Студент\Documents\Константинова12-на16-12-2021_ЗаписьСоСшив\Константинова12-на12-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Студент\Documents\Константинова12-на16-12-2021_ЗаписьСоСшив\Константинова12-на12-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Студент\Documents\Константинова12-на16-12-2021_ЗаписьСоСшив\Константинова12-на12-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Студент\Documents\Константинова12-на16-12-2021_ЗаписьСоСшив\Константинова12-на12-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Студент\Documents\Константинова12-на16-12-2021_ЗаписьСоСшив\Константинова12-на12-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Студент\Documents\Константинова12-на16-12-2021_ЗаписьСоСшив\Константинова12-на12-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Студент\Documents\Константинова12-на16-12-2021_ЗаписьСоСшив\Константинова12-на12-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Студент\Documents\Константинова12-на16-12-2021_ЗаписьСоСшив\Константинова12-на12-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Константинова12-на23-12-2021_ЗаписьСоСшив\Константинова12-на12-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Константинова12-на23-12-2021_ЗаписьСоСшив\Константинова12-на12-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Константинова12-на23-12-2021_ЗаписьСоСшив\Константинова12-на12-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Константинова12-на23-12-2021_ЗаписьСоСшив\Константинова12-на12-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+E:\Константинова12-на23-12-2021_ЗаписьСоСшив\Константинова12-на12-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Константинова12-на23-12-2021_ЗаписьСоСшив\Константинова12-на12-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Константинова12-на23-12-2021_ЗаписьСоСшив\Константинова12-на12-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+E:\Константинова12-на23-12-2021_ЗаписьСоСшив\Константинова12-на12-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+E:\Константинова12-на23-12-2021_ЗаписьСоСшив\Константинова12-на12-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Константинова12-на23-12-2021_ЗаписьСоСшив\Константинова12-на12-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\программы\Константинова12-на23-12-2021_ЗаписьСоСшив\Константинова12-на12-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\программы\Константинова12-на23-12-2021_ЗаписьСоСшив\Константинова12-на12-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\программы\Константинова12-на23-12-2021_ЗаписьСоСшив\Константинова12-на12-12-2021+ЗаписьСоСшив\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Users\Garmashov\_НИРС\2022-Хатламаджиян\Константинова12-на23-12-2021+ЗаписьСоСшив-ПравитьЭту!!!\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Users\Garmashov\_НИРС\2022-Хатламаджиян\Константинова12-на23-12-2021+ЗаписьСоСшив-ПравитьЭту!!!\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Users\Garmashov\_НИРС\2022-Хатламаджиян\Константинова12-на23-12-2021+ЗаписьСоСшив-ПравитьЭту!!!\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Users\Garmashov\_НИРС\2022-Хатламаджиян\Константинова12-на23-12-2021+ЗаписьСоСшив-ПравитьЭту!!!\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\Users\Garmashov\_НИРС\2022-Хатламаджиян\Константинова12-на23-12-2021+ЗаписьСоСшив-ПравитьЭту!!!\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\Users\Garmashov\_НИРС\2022-Хатламаджиян\Константинова12-на23-12-2021+ЗаписьСоСшив-ПравитьЭту!!!\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\Users\Garmashov\_НИРС\2022-Хатламаджиян\Константинова12-на23-12-2021+ЗаписьСоСшив-ПравитьЭту!!!\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\Users\Garmashov\_НИРС\2022-Хатламаджиян\Константинова12-на23-12-2021+ЗаписьСоСшив-ПравитьЭту!!!\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Users\Garmashov\_НИРС\2022-Хатламаджиян\Константинова12-на23-12-2021+ЗаписьСоСшив-ПравитьЭту!!!\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТеплоМассоПеренос\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТеплоМассоПеренос\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТеплоМассоПеренос\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТеплоМассоПеренос\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТеплоМассоПеренос\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТеплоМассоПеренос\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТеплоМассоПеренос\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТеплоМассоПеренос\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТеплоМассоПеренос\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\Users\Garmashov\_НИРС\2022-Хатламаджиян\КомпПрограмма-2DТМП-вар02\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Users\Garmashov\_НИРС\2022-Хатламаджиян\КомпПрограмма-2DТМП-вар02\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Users\Garmashov\_НИРС\2022-Хатламаджиян\КомпПрограмма-2DТМП-вар02\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Users\Garmashov\_НИРС\2022-Хатламаджиян\КомпПрограмма-2DТМП-вар02\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\Users\Garmashov\_НИРС\2022-Хатламаджиян\КомпПрограмма-2DТМП-вар02\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\Users\Garmashov\_НИРС\2022-Хатламаджиян\КомпПрограмма-2DТМП-вар02\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\Users\Garmashov\_НИРС\2022-Хатламаджиян\КомпПрограмма-2DТМП-вар02\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\Users\Garmashov\_НИРС\2022-Хатламаджиян\КомпПрограмма-2DТМП-вар02\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Users\Garmashov\_НИРС\2022-Хатламаджиян\КомпПрограмма-2DТМП-вар02\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТМП-вар03\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТМП-вар03\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТМП-вар03\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТМП-вар03\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТМП-вар03\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТМП-вар03\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТМП-вар03\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТМП-вар03\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТМП-вар03\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТМП-вар04\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТМП-вар04\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТМП-вар04\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТМП-вар04\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТМП-вар04\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТМП-вар04\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТМП-вар04\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТМП-вар04\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТМП-вар04\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\Users\Garmashov\_НИРС\2022-Хатламаджиян\КомпПрограмма-2DТМП-вар06\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Users\Garmashov\_НИРС\2022-Хатламаджиян\КомпПрограмма-2DТМП-вар06\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Users\Garmashov\_НИРС\2022-Хатламаджиян\КомпПрограмма-2DТМП-вар06\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Users\Garmashov\_НИРС\2022-Хатламаджиян\КомпПрограмма-2DТМП-вар06-fD(i_j)-недоделан\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Users\Garmashov\_НИРС\2022-Хатламаджиян\КомпПрограмма-2DТМП-вар06-fD(i_j)-недоделан\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Users\Garmashov\_НИРС\2022-Хатламаджиян\КомпПрограмма-2DТМП-вар06-fD(i_j)-недоделан\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Users\Garmashov\_НИРС\2022-Хатламаджиян\КомпПрограмма-2DТМП-вар06-fD(i_j)-недоделан\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\Users\Garmashov\_НИРС\2022-Хатламаджиян\КомпПрограмма-2DТМП-вар06-fD(i_j)-недоделан\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\Users\Garmashov\_НИРС\2022-Хатламаджиян\КомпПрограмма-2DТМП-вар06-fD(i_j)-недоделан\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\Users\Garmashov\_НИРС\2022-Хатламаджиян\КомпПрограмма-2DТМП-вар06-fD(i_j)-недоделан\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\Users\Garmashov\_НИРС\2022-Хатламаджиян\КомпПрограмма-2DТМП-вар06-fD(i_j)-недоделан\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Users\Garmashov\_НИРС\2022-Хатламаджиян\КомпПрограмма-2DТМП-вар06-fD(i_j)-недоделан\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\Users\Garmashov\_НИРС\2022-Хатламаджиян\КомпПрограмма-2DТМП-вар07-доделан\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Users\Garmashov\_НИРС\2022-Хатламаджиян\КомпПрограмма-2DТМП-вар07-доделан\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Users\Garmashov\_НИРС\2022-Хатламаджиян\КомпПрограмма-2DТМП-вар07-доделан\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТМП-вар08-градиент\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТМП-вар08-градиент\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТМП-вар08-градиент\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТМП-вар12-3d_dll\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТМП-вар12-3d_dll\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТМП-вар12-3d_dll\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТМП-вар12-3d_dll\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТМП-вар12-3d_dll\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТМП-вар12-3d_dll\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТМП-вар12-3d_dll\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТМП-вар12-3d_dll\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТМП-вар12-3d_dll\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТМП-вар12-3d_dll\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТМП-вар13-3d_dll\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТМП-вар13-3d_dll\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТМП-вар13-3d_dll\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТМП-вар13-3d_dll\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТМП-вар13-3d_dll\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТМП-вар13-3d_dll\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТМП-вар13-3d_dll\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТМП-вар13-3d_dll\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТМП-вар13-3d_dll\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 ХатламаджиянВКР\КомпПрограмма-2DТМП-вар13-3d_dll\Константинова12-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова14-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова14-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова14-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Users\Garmashov\_НИРС\2022-Константинова\Константинова14-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Users\Garmashov\_НИРС\2022-Константинова\Константинова14-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Users\Garmashov\_НИРС\2022-Константинова\Константинова14-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Константинова14-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Константинова14-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Константинова14-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Константинова14-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Константинова14-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Константинова14-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+E:\Константинова14-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Константинова14-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Константинова14-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Студент\Documents\Константинова14-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Студент\Documents\Константинова14-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Студент\Documents\Константинова14-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Студент\Documents\Константинова14-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Студент\Documents\Константинова14-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Студент\Documents\Константинова14-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Студент\Documents\Константинова14-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Студент\Documents\Константинова14-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Студент\Documents\Константинова14-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Константинова15-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Константинова15-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Константинова15-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Константинова15-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+E:\Константинова15-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+E:\Константинова15-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Константинова15-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Константинова15-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+E:\Константинова15-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+E:\Константинова15-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+E:\Константинова15-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Константинова15-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Павел\Desktop\Константинова16-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Павел\Desktop\Константинова16-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Павел\Desktop\Константинова16-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Павел\Desktop\Константинова16-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\Павел\Desktop\Константинова16-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Павел\Desktop\Константинова16-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Павел\Desktop\Константинова16-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\Павел\Desktop\Константинова16-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Desktop\Константинова16-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\Users\Павел\Desktop\Константинова16-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Павел\Desktop\Константинова16-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\ryuki\Downloads\Константинова16-МПдляТП+\Константинова16-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\ryuki\Downloads\Константинова16-МПдляТП+\Константинова16-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ryuki\Downloads\Константинова16-МПдляТП+\Константинова16-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ryuki\Downloads\Константинова16-МПдляТП+\Константинова16-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\ryuki\Downloads\Константинова16-МПдляТП+\Константинова16-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ryuki\Downloads\Константинова16-МПдляТП+\Константинова16-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\ryuki\Downloads\Константинова16-МПдляТП+\Константинова16-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ryuki\Downloads\Константинова16-МПдляТП+\Константинова16-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\ryuki\Downloads\Константинова16-МПдляТП+\Константинова16-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\ryuki\Downloads\Константинова16-МПдляТП+\Константинова16-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+C:\Users\ryuki\Downloads\Константинова16-МПдляТП+\Константинова16-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\ryuki\Downloads\Константинова16-МПдляТП+\Константинова16-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Константинова16-МПдляТП+\Константинова16-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Константинова16-МПдляТП+\Константинова16-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Константинова16-МПдляТП+\Константинова16-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Константинова16-МПдляТП+\Константинова16-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Константинова16-МПдляТП+\Константинова16-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Константинова16-МПдляТП+\Константинова16-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+E:\Константинова16-МПдляТП+\Константинова16-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+E:\Константинова16-МПдляТП+\Константинова16-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+E:\Константинова16-МПдляТП+\Константинова16-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Константинова16-МПдляТП+\Константинова16-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Константинова16-МПдляТП+\Константинова16-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+E:\Константинова16-МПдляТП+\Константинова16-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова17-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова17-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова17-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова17-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова17-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова17-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова17-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова17-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+M:\Сережа\TextsRAR\ПоНауке\ДИПЛОМЫ\2022 КонстантиноваВКР\ПрогрФорма4грани\Константинова17-МПдляТП\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Студент\Documents\Константинова17-МПдляТП+ПоправкиИстории\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Студент\Documents\Константинова17-МПдляТП+ПоправкиИстории\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Студент\Documents\Константинова17-МПдляТП+ПоправкиИстории\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Студент\Documents\Константинова17-МПдляТП+ПоправкиИстории\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Студент\Documents\Константинова17-МПдляТП+ПоправкиИстории\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Студент\Documents\Константинова17-МПдляТП+ПоправкиИстории\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Студент\Documents\Константинова17-МПдляТП+ПоправкиИстории\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Студент\Documents\Константинова17-МПдляТП+ПоправкиИстории\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Студент\Documents\Константинова17-МПдляТП+ПоправкиИстории\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Константинова18-МПдляТП+ПоправкиИстории\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Константинова18-МПдляТП+ПоправкиИстории\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Константинова18-МПдляТП+ПоправкиИстории\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Константинова18-МПдляТП+ПоправкиИстории\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Константинова18-МПдляТП+ПоправкиИстории\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Константинова18-МПдляТП+ПоправкиИстории\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+E:\Константинова18-МПдляТП+ПоправкиИстории\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+E:\Константинова18-МПдляТП+ПоправкиИстории\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+E:\Константинова18-МПдляТП+ПоправкиИстории\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Константинова18-МПдляТП+ПоправкиИстории\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Константинова18-МПдляТП+ПоправкиИстории\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
